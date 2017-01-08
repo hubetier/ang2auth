@@ -1,1 +1,6 @@
 first text master chnaged again and again
+
+git remote add origin https://github.com/hubetier/ang2auth.git
+git push -u origin master
+git config user.name "Manfred Behles"
+git config user.email "MaBeh1958@gmail.com"
